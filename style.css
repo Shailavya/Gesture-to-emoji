@@ -1,0 +1,42 @@
+body
+{
+  background: darkred;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture_Name ,#result_gesture_Name2  
+{
+  color: black;
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading {
+  font-size: 30px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+  font-family: 'Playfair Display', serif;;
+  color: grey;
+}
+#predict_gesture, #capture_image_btn {
+  background-color: darkorange;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+#hi {
+  font-size: 18px;
+}
+
